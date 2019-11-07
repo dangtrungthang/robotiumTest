@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ZCalculator</string>
+    <string name="guide">Enter any two numbers and select operation and get the result</string>
+    <string name="first_number">First Number</string>
+    <string name="second_number">Second Number</string>
+    <string name="result">Get Result</string>
+    <string name="space">\n</string>
+
+    <string-array name="spinnerItems">
+        <item>Addition</item>
+        <item>Subtraction</item>
+    </string-array>
+</resources>
